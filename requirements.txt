@@ -5,16 +5,20 @@ cement==2.8.2
 certifi==2020.12.5
 chardet==4.0.0
 colorama==0.4.3
+dj-database-url==0.5.0
 Django==3.1
 django-admin-honeypot==1.1.0
 django-admin-thumbnail==0.1
 django-admin-thumbnails==0.2.5
+django-heroku==0.3.1
 django-session-timeout==0.1.0
 future==0.16.0
+gunicorn==20.1.0
 idna==2.10
 jmespath==0.10.0
 pathspec==0.5.9
 Pillow==8.2.0
+psycopg2==2.8.6
 psycopg2-binary==2.8.6
 pypiwin32==223
 python-dateutil==2.8.1
@@ -31,3 +35,4 @@ sqlparse==0.3.1
 termcolor==1.1.0
 urllib3==1.25.11
 wcwidth==0.1.9
+whitenoise==5.2.0
