@@ -23,7 +23,7 @@ psycopg2-binary==2.8.6
 pypiwin32
 python-dateutil==2.8.1
 python-decouple==3.4
-pytz==2020.1
+pytz
 pywin32
 PyYAML
 requests==2.25.1
