@@ -20,8 +20,7 @@ pathspec==0.5.9
 Pillow==8.2.0
 psycopg2==2.8.6
 psycopg2-binary==2.8.6
-pypiwin32
-python-dateutil==2.8.1
+2python-dateutil==2.8.1
 python-decouple==3.4
 requests==2.25.1
 s3transfer==0.3.6
